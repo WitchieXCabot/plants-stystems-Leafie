@@ -1,0 +1,68 @@
+{
+    "items":{
+        "item":{
+            "id":"item",
+            "displayName":"Item",
+            "price":0,
+            "purchaseable":false,
+            "salable":false,
+            "tradeable":false,
+            "useable":false
+        },
+        "pet_token":{
+            "id":"pet_token",
+            "displayName":"Pet Voucher",
+            "price":0,
+            "purchaseable":false,
+            "salable":false,
+            "tradeable":true,
+            "useable":true
+        },
+        "exp_boost_small":{
+            "id":"exp_boost_small",
+            "displayName":"Small EXP Boost",
+            "price":150,
+            "purchaseable":true,
+            "salable":true,
+            "tradeable":true,
+            "useable":true
+        },
+        "exp_boost_medium":{
+            "id":"exp_boost_medium",
+            "displayName":"Medium EXP Boost",
+            "price":300,
+            "purchaseable":true,
+            "salable":true,
+            "tradeable":true,
+            "useable":true
+        },
+        "exp_boost_large":{
+            "id":"exp_boost_large",
+            "displayName":"Large EXP Boost",
+            "price":600,
+            "purchaseable":true,
+            "salable":true,
+            "tradeable":true,
+            "useable":true
+        },
+        "exp_boost_huge":{
+            "id":"exp_boost_huge",
+            "displayName":"Huge EXP Boost",
+            "price":1500,
+            "purchaseable":true,
+            "salable":true,
+            "tradeable":true,
+            "useable":true
+        },
+        "lucky_clover_2021":{
+            "id":"lucky_clover_2021",
+            "displayName":"Lucky Clover (2021)",
+            "price":1000,
+            "purchaseable":true,
+            "salable":true,
+            "tradeable":true,
+            "useable":false,
+            "event":"st-patricks-2021"
+        }
+    }
+}
