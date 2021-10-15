@@ -1,0 +1,30 @@
+{
+  "name": "plants-stystems-leafie",
+  "version": "1.0.0",
+  "description": "Rpg Plant system for leafie Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WITCH4242/plants-stystems-Leafie.git"
+  },
+  "author": "Witchie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WITCH4242/plants-stystems-Leafie/issues"
+  },
+  "homepage": "https://github.com/WITCH4242/plants-stystems-Leafie#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.2.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.1.7",
+    "node-fetch": "^2.6.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3"
+  }
+}
